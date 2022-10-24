@@ -1,8 +1,9 @@
 # Site settings
 title: Vasilis Angelidis
 description: Jekyll Theme Minimal Resume
-#baseurl: "http://vangelidis.github.io/" # the subpath of your site, e.g. /blog
-url: "http://vangelidis.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vangelidis.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+theme: minima
 
 # User settings
 username: Mauricio Urraco
