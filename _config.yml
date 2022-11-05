@@ -1,6 +1,6 @@
 # Site settings
 title: Vasilis Angelidis
-description: Jekyll Theme Minimal Resume
+description: My bio | 1st assessment of the Mobile and Pervasive Computing Systems class
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vangelidis.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 theme: minima
