@@ -6,15 +6,15 @@ url: "https://vangelidis.github.io/" # the base hostname & protocol for your sit
 theme: minima
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a Software Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
+username: Vasilis Angelidis
+user_description: I am the coordination of the IT department of the Centre of Greek Sign Language. I design and implement innovating tools for Sign Language Training. Also I am project management in various cooperative projects.
 user_title: Software Engineer
-email: mauriurraco@gmail.com
+# email: mauriurraco@gmail.com
 # twitter_username: lorem_ipsum
-instagram_username: mauriciourraco7
-facebook_username: mauricio.urraco
-linkedin_username: murraco
-github_username:  murraco
+# instagram_username: mauriciourraco7
+# facebook_username: mauricio.urraco
+linkedin_username: vasileios-angelidis-97745820a
+github_username:  vangelidis
 # medium_username: lorem_ipsum
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
